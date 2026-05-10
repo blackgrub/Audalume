@@ -6,7 +6,7 @@ title: Privacy Policy — Audalume
 
 **Effective date:** May 9, 2026  
 **App name:** Audalume  
-**Publisher:** Blackgrub  
+**Publisher:** Michael Clegg  
 **Contact:** mcj@sdf.org
 
 Audalume is an offline audiobook player for Windows. Audalume is designed to work entirely on your device. It does not require an account, does not connect to an online service, and does not include cloud sync, advertising, analytics, telemetry, or online tracking.
